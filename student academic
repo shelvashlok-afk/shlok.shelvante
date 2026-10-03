@@ -1,0 +1,16 @@
+ai-student-performance-research/
+│
+├── README.md
+├── data/
+│   └── student_data.csv
+├── notebooks/
+│   └── research_analysis.ipynb
+├── src/
+│   ├── data_preprocessing.py
+│   ├── train_model.py
+│   └── evaluate_model.py
+├── results/
+│   ├── graphs/
+│   └── model_results.txt
+├── requirements.txt
+└── LICENSE
